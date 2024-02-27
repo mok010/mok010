@@ -1,5 +1,8 @@
 <div align="center">
+  
   ### 🌟 Group 🌟
+
+  
   <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white">
     
   ### 💪 Skills 💪
