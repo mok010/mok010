@@ -22,5 +22,5 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
   <img src="https://img.shields.io/badge/Java-384485?style=flat-square&logo=Java&logoColor=white" >
   <img src="https://img.shields.io/badge/Git-A38F59?style=flat-square&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-A38F59?style=flat-square&logo=Git&logoColor=green">
+    <img src="https://img.shields.io/badge/JavaScript-A38F59?style=flat-square&logo=JavaScript&logoColor=white">
 </div>
