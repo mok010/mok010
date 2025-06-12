@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hello! I'm violet! 💜
+  # Hello! I'm violet!
 
 
   
