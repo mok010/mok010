@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
   
-<h1 align="center">안녕하세요! 저는 주니어 데이터 분석가 목은경입니다!</h1>
+<h1 align="center">안녕하세요! 저는 주니어 데이터 분석가 Violet입니다!</h1>
 <h3 align="center">데이터로 세상을 더 행복하게 만드는 삶을 지향합니다.</h3>
 
 ---
